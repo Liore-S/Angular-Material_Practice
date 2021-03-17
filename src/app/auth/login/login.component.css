@@ -1,0 +1,15 @@
+.container mat-card{
+    margin: 20% 0;
+    width: 60%;
+    float: none;
+    text-align: center;
+}
+
+mat-card h3{
+    font-size: 40px;
+    padding: 2% 0;
+}
+
+mat-card h4{
+    font-size: 30px;
+}
